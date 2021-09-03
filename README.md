@@ -1,5 +1,6 @@
 # CREATIVE-AUTONOMOUS-NAVIGATION-BY-MOBILE-ROBOTS-IN-UNSTRUCTURED-SPACES
 Dissertation Project - University of St Andrews
+To get to know details about the developed method, read chapter 2.5 in the dissertation document.
 
 The goal of mobile robotics is to navigate robots in the environment without colliding with obstacles. Numerous methods deal with tackling this task where one of them is the Potential field approach. However, this method is prone to the Local Minima problem; therefore is not able to solve obstacles of high difficulty, such as c-shape obstacles.
 
