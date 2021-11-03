@@ -1,4 +1,4 @@
-# ANGLERFISH NAVIGATION SYSTEM-navigation by mobile robots in unstructured spaces
+# ANGLERFISH NAVIGATION SYSTEM - navigation by mobile robots in unstructured spaces
 Dissertation Project - University of St Andrews
 
 To get to know details about the developed method, read chapter 2.5 in the dissertation document.
