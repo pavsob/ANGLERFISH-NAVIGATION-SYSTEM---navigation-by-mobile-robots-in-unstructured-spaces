@@ -1,7 +1,7 @@
 # ANGLERFISH NAVIGATION SYSTEM - navigation by mobile robots in unstructured spaces
 Dissertation Project - University of St Andrews
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6839505096296931328" height="853" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+Video: https://www.linkedin.com/posts/pavel-sobotka-4041ab197_artificialintelligence-robotics-mobilerobots-activity-6839505323489796096-tZBw
 
 To get to know details about the developed method, read chapter 2.5 in the dissertation document.
 
