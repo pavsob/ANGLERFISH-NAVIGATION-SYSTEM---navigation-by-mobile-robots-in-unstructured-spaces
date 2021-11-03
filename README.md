@@ -1,6 +1,8 @@
 # ANGLERFISH NAVIGATION SYSTEM - navigation by mobile robots in unstructured spaces
 Dissertation Project - University of St Andrews
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6839505096296931328" height="853" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 To get to know details about the developed method, read chapter 2.5 in the dissertation document.
 
 The goal of mobile robotics is to navigate robots in the environment without colliding with obstacles. Numerous methods deal with tackling this task where one of them is the Potential field approach. However, this method is prone to the Local Minima problem; therefore is not able to solve obstacles of high difficulty, such as c-shape obstacles.
