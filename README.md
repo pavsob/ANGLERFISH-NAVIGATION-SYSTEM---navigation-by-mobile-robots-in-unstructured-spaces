@@ -1,5 +1,5 @@
 # ANGLERFISH NAVIGATION SYSTEM - navigation by mobile robots in unstructured spaces
-Dissertation Project - University of St Andrews
+*Dissertation Project - University of St Andrews*
 
 Video: https://www.linkedin.com/posts/pavel-sobotka-4041ab197_artificialintelligence-robotics-mobilerobots-activity-6839505323489796096-tZBw
 
